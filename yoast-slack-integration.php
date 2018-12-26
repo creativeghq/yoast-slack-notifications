@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Yoast slack notification
-Plugin URI:
-Description:
+Plugin Name: Yoast Slack Notification for Metafield Changes
+Plugin URI: https://creativeg.gr
+Description: When ever someone does a change on any post or page, get notified to Slack for the change with a Before and After preview!
 Version: 1.0.1
-Author:
-Author URI:
+Author: Basilis Kanonidis
+Author URI: https://creativeg.gr
 Requires at least: 3.9.1
 Tested up to: 4.1
 Text Domain:
